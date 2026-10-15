@@ -1,6 +1,6 @@
-# ICPC Damanhour Community - Level 0 Training 2027
+# ICPC Damanhour Community - New Commers Training 2027
 
-Welcome to the **Level 0 Problem Solving Training**!  This repository is the starting point of your competitive programming journey, where you will learn the fundamentals of problem-solving and competitive programming using C++.
+Welcome to the **New Commers Problem Solving Training**!  This repository is the starting point of your competitive programming journey, where you will learn the fundamentals of problem-solving and competitive programming using C++.
 
 ## 🚀 Get Started
 
