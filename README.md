@@ -5,7 +5,7 @@ Welcome to the **New Commers Problem Solving Training**!  This repository is the
 ## 🚀 Get Started
 
 All resources, weekly breakdowns, problem sheets, and training content are available in the **Wiki**.  
-Explore: [ICPC Damanhour - Level 0 Wiki](https://github.com/ICPC-Damnhour-Community/Level-0-2027/wiki)
+Explore: [ICPC Damanhour - New Commers Wiki](https://github.com/ICPC-Damnhour-Community/New-Commers-2027/wiki)
 
 ## 📅 Training Timeline
 
